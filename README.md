@@ -24,6 +24,7 @@ Case Study: The FRU Inventory Service (HPE & LANL)
 --------------------------------------------------
 We will present a retrospective on the co-development of the FRU Inventory Service to demonstrate this model in action.
 
+We will cover:
 * How LANL provided operational requirements while HPE provided the implementation framework, allowing for rapid iteration.
 * The resulting production-ready service, which was delivered with significantly reduced lead time compared to legacy development cycles.
 * A brief walkthrough of the service architecture and the code generation workflow to demonstrate the reduction in developer friction.
