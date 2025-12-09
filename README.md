@@ -1,5 +1,5 @@
 ## Abstract submission
-Transitioning from proprietary management stacks to OpenCHAMI requires a fundamental shift in how vendors and member sites collaborate. The traditional model—where developers interpret static PDF standards to build compliant tools—is slow, error-prone, and hinders the rapid iteration required for modern HPC operations.
+Transitioning from proprietary management stacks to OpenCHAMI requires a shift in how vendors and member sites collaborate. The traditional model, where developers interpret static PDF standards to build compliant tools, is slow, error-prone, and hinders the rapid iteration required for modern HPC operations.
 
 This presentation outlines a co-development methodology adopted by HPE and LANL to accelerate the delivery of core OpenCHAMI services. We introduce Fabrica, a framework-driven tool that automates the enforcement of API Working Group standards. By generating complex infrastructure layers—including event buses, Kubernetes envelopes, and OpenAPI specifications—Fabrica decouples architectural compliance from business logic.
 
