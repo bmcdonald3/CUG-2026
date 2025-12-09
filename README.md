@@ -1,5 +1,5 @@
 # Abstract submission
-The transition to OpenCHAMI offers a unique opportunity to redefine how vendors and member sites collaborate. Recent efforts have demonstrated the effectiveness of combining HPE’s software engineering expertise with the deep hardware and field experience of LANL system administrators. This partnership overcomes the limitations of the traditional model—where developers interpret static PDF standards—by enabling rapid, iterative feedback loops.
+Recent efforts in the OpenCHAMI project have demonstrated the effectiveness of combining HPE’s software engineering expertise with the field experience of LANL system administrators. This partnership overcomes the limitations of the traditional model, where developers interpret static PDF standards, by enabling rapid, iterative feedback loops.
 
 This presentation outlines the co-development methodology used to accelerate the delivery of core OpenCHAMI services. We introduce Fabrica, a framework-driven tool that automates the enforcement of API Working Group standards. By generating complex infrastructure layers—including event buses, Kubernetes envelopes, and OpenAPI specifications—Fabrica decouples architectural compliance from business logic.
 
