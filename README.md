@@ -4,6 +4,7 @@ The transition to OpenCHAMI offers a unique opportunity to redefine how vendors 
 This presentation outlines the co-development methodology used to accelerate the delivery of core OpenCHAMI services. We introduce Fabrica, a framework-driven tool that automates the enforcement of API Working Group standards. By generating complex infrastructure layers—including event buses, Kubernetes envelopes, and OpenAPI specifications—Fabrica decouples architectural compliance from business logic.
 
 Using the FRU Inventory Service as a case study, we demonstrate how this tooling enabled parallel development between vendor and site. We will show how this approach replaces the slow "feature request" process with active co-development, ensuring that new services solve immediate operational problems while maintaining the strict interoperability required for integration with future proprietary software.
+
 Problem Statement
 -----------------
 As the HPC community adopts OpenCHAMI, the risk of API fragmentation increases. With multiple stakeholders—vendors, sites, and open-source contributors—building independent microservices, reliance on written specifications (PDFs) creates "interpretation drift," leading to interoperability failures. Furthermore, the operational overhead of manually implementing boilerplate code, such as Kafka buses, CloudEvents, and Authentication/Authorization, slows down the delivery of critical features and introduces inconsistency.
