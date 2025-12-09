@@ -15,8 +15,9 @@ Solution: Framework-Driven Governance
 -------------------------------------
 We propose a shift from "compliance by inspection" to "compliance by generation." We will introduce Fabrica, a toolchain used by the OpenCHAMI project that treats the API specification as the source of truth.
 
-* How Fabrica enforces the OpenCHAMI API Working Group standards automatically, ensuring that decisions—such as using Kubernetes-style envelopes versus flat models—are applied consistently across services.
-* How removing infrastructure boilerplate allowed the development team to focus purely on the business logic of FRU tracking, significantly increasing velocity.
+We will cover:
+* How Fabrica enforces the OpenCHAMI API Working Group standards automatically, ensuring that decisions, such as using Kubernetes-style envelopes versus flat models, are applied consistently across services.
+* How removing infrastructure boilerplate allowed the development team to focus purely on the application logic of FRU tracking, significantly increasing velocity.
 * How updates to the standard can be propagated to existing services via code regeneration, future-proofing the stack against architectural pivots without requiring manual rewrites.
 
 Case Study: The FRU Inventory Service (HPE & LANL)
