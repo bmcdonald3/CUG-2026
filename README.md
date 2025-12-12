@@ -33,4 +33,4 @@ Key Takeaways for Attendees
 ---------------------------
 * Understand how OpenCHAMI guarantees interoperability between different tools through adherence to generated contracts.
 * Learn a strategy for speeding up service development using schema-driven tools that minimize or eliminate the need to write extensive repetitive and error-prone boilerplate code.
-* See a proven model for effective vendor-site open source collaboration that bridges the gap between product roadmaps and site-specific needs.
+* See a proven model for effective vendor-site open-source collaboration that bridges the gap between product roadmaps and site-specific needs.
