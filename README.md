@@ -9,7 +9,7 @@ Using the FRU Inventory Service as a case study, we demonstrate how this tooling
 
 Problem Statement
 -----------------
-As the HPC community adopts OpenCHAMI, the risk of API fragmentation increases. With multiple stakeholders (vendors, sites, and open-source contributors) building independent microservices, reliance on PDF specifications creates "interpretation drift" (the subtle, breaking inconsistencies that arise when different developers implement the same written standard). Additionally, the operational overhead of manually implementing boilerplate code, such as Kafka buses, CloudEvents, and Authentication/Authorization, slows down the delivery of features and introduces inconsistency.
+As the HPC community adopts OpenCHAMI, the risk of API fragmentation increases. With multiple stakeholders (vendors, sites, and open-source contributors) building independent microservices, reliance on PDF specifications creates "interpretation drift" (the subtle inconsistencies that arise when different developers implement the same written standard). Additionally, the operational overhead of manually implementing boilerplate code, such as Kafka buses, CloudEvents, and Authentication/Authorization, slows down the delivery of features and introduces inconsistency.
 
 Solution: Framework-Driven Governance
 -------------------------------------
